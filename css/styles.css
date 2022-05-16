@@ -99,7 +99,7 @@ p {
     position: relative;
 }
 
-.link-header.current::after {
+.link-header.current::before {
     position: absolute;
     bottom: -1px;
     left: 0;
